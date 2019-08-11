@@ -18,6 +18,7 @@ set nocompatible
 set guifont=Source\ Code\ Pro:h14
 set helplang=cn
 set foldmethod=marker
+set background=dark
 
 filetype on
 filetype plugin on 
